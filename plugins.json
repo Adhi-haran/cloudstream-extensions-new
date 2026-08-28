@@ -304,14 +304,14 @@
     {
         "url": "https://raw.githubusercontent.com/Adhi-haran/cloudstream-extensions-new/refs/heads/builds/Animesalt.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "Animesalt",
         "internalName": "Animesalt",
         "authors": [
             "Phisher98"
         ],
         "description": "Anime/Cartoon in Hindi",
-        "fileSize": 41262,
+        "fileSize": 41266,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -319,9 +319,9 @@
             "Anime",
             "Cartoon"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ro&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animesalttv.to&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8409538306f22998101abd4be891b6377b88e38a47da79eb26a9e05c6c78eb23",
+        "fileHash": "sha256-12048b50056715b5358be0e00ee91d1e65825915cc27d191e4663d574ccab69e",
         "jarFileSize": 172668,
         "jarUrl": "https://raw.githubusercontent.com/Adhi-haran/cloudstream-extensions-new/refs/heads/builds/Animesalt.jar",
         "jarHash": "sha256-aca415157cf446d6c4fe04544fb5e705d69e0c4c343086f89bd61f86bda2ad48"
