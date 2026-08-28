@@ -304,14 +304,14 @@
     {
         "url": "https://raw.githubusercontent.com/Adhi-haran/cloudstream-extensions-new/builds/Animesalt.cs3",
         "status": 1,
-        "version": 30,
+        "version": 35,
         "name": "AnimeSalt",
         "internalName": "Animesalt",
         "authors": [
             "Phisher98"
         ],
-        "description": "Anime & Cartoons in Hindi & Tamil (animesalt.ro)",
-        "fileSize": 14142,
+        "description": "Anime & Cartoons in Hindi, Tamil & Telugu (600+ Shinchan, Doraemon, Movies)",
+        "fileSize": 9528,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -319,12 +319,12 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ro&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animesalttv.to&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-381e71a8c45e619546fcb4f62360fb5fe9c977dcf21fcc2bd783814b246b4374",
-        "jarFileSize": 27642,
+        "fileHash": "sha256-d2ca94586089c489855735394de6dd510a11db1eeac15650eff77ffef92d9e0e",
+        "jarFileSize": 13301,
         "jarUrl": "https://raw.githubusercontent.com/Adhi-haran/cloudstream-extensions-new/builds/Animesalt.jar",
-        "jarHash": "sha256-795f41efa78fb6284467d49027db70faab5a891c0fcd163f719381a69119076e"
+        "jarHash": "sha256-76fc124798f1fe8e188768130fcf54a33a6adb296ce8762ee3816cb175e38a2a"
     },
     {
         "url": "https://raw.githubusercontent.com/Adhi-haran/cloudstream-extensions-new/builds/Animexin.cs3",
